@@ -1,0 +1,8 @@
+因為一開始沒有參考課本完全是憑自己想的硬寫，所以CODE可能有點冗長醜醜的
+以下介紹function
+Attach 開檔一併在這裡做了 fscanf把資料放進linked list
+PolyAdd 比較次方大小按順序一個一個放入linked list
+printPoly 用for迴圈從開頭跑到尾印出來
+CircularListPolyAttach 和Attach差不多 差別在於建立了標頭節點和建立的是circular linked list
+CircularListprintPoly 用for迴圈從第二個(第一個是標頭節點)開始跑到標頭為止印出來
+CircularListPolyAdd 和PolyAdd差不多 差別在於建立了標頭節點和建立的是circular linked list

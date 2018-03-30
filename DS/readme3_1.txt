@@ -1,0 +1,6 @@
+hash function相當單純
+將資料直接轉為數字然後%10而已
+原本bucket是開2D-array
+不曉得有沒有符合規定就改成structure array了
+痕跡是刻意留下來的 註解掉了不影響程式運行
+遇到collision就直接往下一格放 下一格也有東西就再往下一格
